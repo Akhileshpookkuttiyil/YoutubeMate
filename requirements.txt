@@ -1,0 +1,6 @@
+# YouTubeMate Production & Packaging Dependencies
+yt-dlp>=2024.10.0
+Pillow>=10.0.0
+
+# Windows Desktop Packaging
+pyinstaller>=6.0.0
